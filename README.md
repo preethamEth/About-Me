@@ -9,7 +9,6 @@ Web3 developer and community manager
 - Web developer💻
 - solidity Lover💙
 - Podcast Lover 🎤
-- 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [17221preetham@gmail.com](mailto:17221preetham@gmail.com)
 *   🧠  I'm learning React and Nextjs
