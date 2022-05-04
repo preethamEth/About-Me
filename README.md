@@ -4,8 +4,12 @@ Hi 👋 My name is Preetham
 Web3 developer and community manager
 ------------------------------------
 
-15 | Web3 Enthusiastic | Making people aware about web3 | Student | Great Orator | Loves to manage people | Loves to Hear Podcast
-
+- I am a student learning blockchain and web3🚀
+- I am good at talking to people and convincing them🤝 
+- Web developer💻
+- solidity Lover💙
+- Podcast Lover 🎤
+- 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [17221preetham@gmail.com](mailto:17221preetham@gmail.com)
 *   🧠  I'm learning React and Nextjs
